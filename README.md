@@ -1,0 +1,1 @@
+SPOJ PROBLEM Nr.1
